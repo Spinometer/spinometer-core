@@ -1,0 +1,14 @@
+{
+    "name": "GetBack.Spinometer.SpinometerCore",
+    "rootNamespace": "GetBack.Spinometer.SpinometerCore",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

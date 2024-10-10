@@ -1,0 +1,14 @@
+
+{
+  "name": "jp.get-back.spinometer.spinometer-core",
+  "version": "0.0.0",
+  "displayName": "Spinometer Core",
+  "unity": "6000.0",
+  "keywords": [],
+  "author": {
+    "name": "GET BACK Ltd.",
+    "email": "info@get-back.jp",
+    "url": "https://www.get-back.jp"
+  }
+}
+
